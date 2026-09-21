@@ -156,16 +156,8 @@ function buildPage() {
       </div>
     </div>
 
-    <!-- Contact -->
-    <div class="contact-card">
-      <div class="contact-icon">✉️</div>
-      <p>
-        <strong>Need help?</strong><br>
-        If you encounter any issues during deletion, please contact us at
-        <a href="mailto:${contactEmail}" id="delete-contact-email">${contactEmail}</a>.
-        We will respond within 5 business days.
-      </p>
-    </div>
+    
+    
 
   </div>
 </main>`;
