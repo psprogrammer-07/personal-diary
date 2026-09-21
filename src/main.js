@@ -305,6 +305,7 @@ function buildFooter() {
     <ul class="footer-links" role="list">
       <li><a href="privacy-policy.html" id="footer-privacy-link">Privacy Policy</a></li>
       <li><a href="terms.html" id="footer-terms-link">Terms of Service</a></li>
+      <li><a href="delete-account.html" id="footer-delete-link">Delete Account</a></li>
       <li><a href="mailto:${contactEmail}" id="footer-contact-link">Contact</a></li>
     </ul>
   </div>
